@@ -5,7 +5,8 @@ Spongebot - Spongebob robot i made for jade
 https://www.youtube.com/watch?v=YyFxju57HFE
 
 Click to watch
-[![Watch the video](https://img.youtube.com/vi/YyFxju57HFE/maxresdefault.jpg)](https://youtu.be/YyFxju57HFE)
+
+[![Watch the video](https://img.youtube.com/vi/YyFxju57HFE/0.jpg)](https://youtu.be/YyFxju57HFE)
 
 
 
