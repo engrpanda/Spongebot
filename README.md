@@ -34,6 +34,7 @@ The Red light is STEADY: CONNECTED
 <img src="https://github.com/engrpanda/Spongebot/blob/main/APP/1.PNG" width="500">
 
 
+<img src="https://github.com/engrpanda/Spongebot/blob/main/APP/app%20instructions.jpg" width="500">
 
 ------------------------------------------------------------------------------------------------
 # layout
